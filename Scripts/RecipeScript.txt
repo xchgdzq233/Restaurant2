@@ -1,0 +1,2 @@
+rec3, 33, 333, 3:3:3, Diner Stove, ing3, 3, ing2, 2
+rec4, 44, 444, 4:4:4, Deli Station, ing4, 4, ing5, 5, ing6, 1

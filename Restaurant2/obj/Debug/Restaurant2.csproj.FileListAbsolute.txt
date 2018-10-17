@@ -1,0 +1,40 @@
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe.config
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\bin\Debug\Restaurant2.pdb
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csprojResolveAssemblyReference.cache
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.MainForm.resources
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.Properties.Resources.resources
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csproj.GenerateResource.Cache
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.exe
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.pdb
+c:\users\cui\documents\visual studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.AddIngredientForm.resources
+c:\Users\Cui\Documents\Visual Studio 2012\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.AddRecipeForm.resources
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe.config
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\bin\Debug\Restaurant2.pdb
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.AddIngredientForm.resources
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.AddRecipeForm.resources
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.LoadScriptForm.resources
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.MainForm.resources
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.Properties.Resources.resources
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csproj.GenerateResource.Cache
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.exe
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.pdb
+<<<<<<< HEAD
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csprojResolveAssemblyReference.cache
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.QueryForm.resources
+C:\Users\Cui\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.IngredientForm.resources
+=======
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe.config
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.exe
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.pdb
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\bin\Debug\Restaurant2.pdb
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csprojResolveAssemblyReference.cache
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.AddIngredientForm.resources
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.AddRecipeForm.resources
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.LoadScriptForm.resources
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.MainForm.resources
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.Properties.Resources.resources
+C:\Users\janetxue\Documents\GitHub\SIRMS\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csproj.GenerateResource.Cache
+>>>>>>> origin/master
